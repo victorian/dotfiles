@@ -22,8 +22,8 @@ brew 'yarn'
 brew 'youtube-dl'
 brew 'vim'
 brew 'the_silver_searcher'
-brew 'macvim'
-
+brew 'macvime
+brew 'fzf'
 
 cask 'firefox'
 cask 'google-chrome'
