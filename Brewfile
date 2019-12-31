@@ -24,6 +24,7 @@ brew 'vim'
 brew 'the_silver_searcher'
 brew 'macvime
 brew 'fzf'
+brew 'tmux'
 
 cask 'firefox'
 cask 'google-chrome'
